@@ -1,0 +1,75 @@
+*{
+    background-color: #F8F3EF;
+    font-family: 'Kedebideri', sans-serif;
+}
+
+#link-principal{
+    text-decoration: none;
+    color: #7a684a;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+main {
+    width: 100%;
+    max-width: 600px; 
+    margin: 0 auto;   
+    padding: 20px;    
+}
+
+
+h1{
+    color: #2f3e46;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul{
+    
+    color: #2f3e46;
+    font-size: 20px;
+    
+}
+
+.ponto1{
+   margin-bottom: 10px;
+   margin-left: 20px;
+   color: #2f3e46;
+    font-size: 20px;
+}
+
+.ponto2{
+   margin-bottom: 10px;
+   margin-left: 20px;
+   color: #2f3e46;
+    font-size: 20px;
+}
+
+.ponto3{
+   margin-bottom: 10px;
+   margin-left: 20px;
+   color: #2f3e46;
+    font-size: 20px;
+}
+
+.texto1{
+   margin-bottom: 10px;
+   margin-left: 20px;
+   color: #2f3e46;
+    font-size: 20px;
+}
+
+.texto2{
+   margin-bottom: 10px;
+   margin-left: 20px;
+   color: #2f3e46;
+    font-size: 20px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
